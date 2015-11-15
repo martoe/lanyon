@@ -1,0 +1,18 @@
+---
+layout: post
+excerpt_separator: <!--more-->
+title:  "Titel"
+category: outdoor
+tags: [region1, region2]
+comments: true
+---
+
+* 20.09.2015 Schneeberg
+* 01.08.2015 Haidsteig
+* 24.07.2015 Wilde Gams
+* 21.07.2014 Grandlspitz
+* 17.07.2015 Fredsteig
+* 29.06.2015 Tirolersteig
+* 05.06.2015 Traunstein
+* 17.05.2015 Großes Höllental
+* 18.04.2015 Kleine Klause
