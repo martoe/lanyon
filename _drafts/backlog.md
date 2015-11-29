@@ -8,7 +8,6 @@ comments: true
 ---
 
 * 20.09.2015 Schneeberg
-* 01.08.2015 Haidsteig
 * 24.07.2015 Wilde Gams
 * 21.07.2014 Grandlspitz
 * 17.07.2015 Fredsteig
@@ -16,3 +15,8 @@ comments: true
 * 05.06.2015 Traunstein
 * 17.05.2015 Großes Höllental
 * 18.04.2015 Kleine Klause
+
+
+TO DO
+* comments
+* tags
