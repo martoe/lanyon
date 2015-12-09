@@ -19,4 +19,4 @@ comments: true
 
 TO DO
 * comments
-* tags
+* tags (on post detail page)

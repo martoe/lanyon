@@ -15,7 +15,7 @@ Kurz nach 9 Uhr beginnen wir die Tour in Kaiserbrunn. Während in Gloggnitz scho
 
 Beim Ortsende von Kaiserbrunn folgen wir kurz dem Camillo-Kronich-Steig und bleiben dann, als dieser links den Berg hinauf führt, auf dem Forstweg. Vorbei geht es an einer Unzahl von sogenannten "Belegstellen" (diese werden von Imkern zur Königinnenaufzucht verwendet, sind um diese Jahreszeit aber natürlich verwaist), immer entlag eines Wildgeheges, zuerst auf der Forststraße und dann querfeldein auf Steigspuren den Berg hinauf. Nach einer dreiviertel Stunde erreichen wir einen Felskessel, den wir über eine alte Eisenleiter verlassen.
 
-![]({{ site.baseurl }}/assets/RIMG0404.JPG "Felskessel und Eisenleiter")
+![]({{ site.baseurl }}/assets/2015/RIMG0404.JPG "Felskessel und Eisenleiter")
 
 Angeblich wird dieser Weg im Winter von Schitourengehern als Abfahrt verwendet, was den "Eishammer" am oberen Ende der Leiter erklärt.
 Inzwischen ist die Sonne herausgekommen, das Höllental unter uns liegt aber weiterhin im Nebel.
@@ -23,11 +23,11 @@ Wir queren ein Geröllfeld und steigen in einem Waldstück weiter bergauf, halte
 
 Hier heroben wechselt das Wetter im Minutentakt zwischen strahlend blauem Himmel und dichtem Nebel - dafür können wir eine Aussicht genießen die man sonst nur aus dem Flugzeug kennt:
 
-![]({{ site.baseurl }}/assets/RIMG0416.JPG "Blick von der Seilbahn-Bergstation Richtung Süden")
+![]({{ site.baseurl }}/assets/2015/RIMG0416.JPG "Blick von der Seilbahn-Bergstation Richtung Süden")
 
 Kurz vor zwei Uhr machen wir uns an den Abstieg über die Brandschneide (Camillo-Kronich-Steig), der im oberen Teil durch den feuchten Boden eher unangenehm und rutschig ist. Wir haben für diese Tageszeit erstaunlich viel Sonne, vor uns immer der Schneeberg , umringt von Nebelschwaden.
 
-![]({{ site.baseurl }}/assets/RIMG0420.JPG "Der Schneeberg, umringt von Nebel")
+![]({{ site.baseurl }}/assets/2015/RIMG0420.JPG "Der Schneeberg, umringt von Nebel")
 
 Nach zwei Stunden Abstieg erreichen wir wieder Kaiserbrunn.
 Vielleicht sollten wir den nächsten Versuch mit GPS-Unterstützung angehen, Szepfalusi hat für solche Fälle auf seiner Homepage die [GPS-Koordinaten](http://www.csaba.at/show_content2.php?s2id=117) publiziert...
