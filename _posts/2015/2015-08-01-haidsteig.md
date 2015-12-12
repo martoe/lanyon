@@ -5,6 +5,7 @@ title:  "Haidsteig bei Vollmond"
 category: outdoor
 tags: [rax, niederösterreich, klettersteig]
 comments: true
+map: haidsteig.jpg
 ---
 Ein Vorhaben, das schon länger in unseren Köpfen herumschwirrt, wird heute in die Tat umgesetzt: die Rax über den Haidsteig in der Nacht zu erklimmen!
 

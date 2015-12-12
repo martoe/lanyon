@@ -5,6 +5,7 @@ title:  "Titel"
 category: outdoor
 tags: [region1, region2]
 comments: true
+#map: image.jpg
 ---
 First sentence
 
