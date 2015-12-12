@@ -5,6 +5,7 @@ title:  "Kremsmauer"
 category: outdoor
 tags: [oberösterreich]
 comments: true
+map: kremsmauer.jpg
 ---
 Der Winter findet vorerst nicht statt (zumindest nicht hierzulande), und daher nutze ich die milden Temperaturen für eine Wanderung auf die Kremsmauer.
 Ich wähle die Route auf der Südseite, weil hier mit keiner Vereisung zu rechnen ist.
