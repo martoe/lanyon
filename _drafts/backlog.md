@@ -23,4 +23,3 @@ comments: true
 
 TO DO
 * tags (on post detail page)
-* maps
