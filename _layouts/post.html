@@ -14,7 +14,7 @@ layout: default
 
 <div class="related">
   <span class="post-date">
-    Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags.html#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}
+    Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}
   </span>
   {% comment %}
   <h2>Related Posts</h2>
