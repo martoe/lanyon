@@ -12,6 +12,9 @@ title:               "Outdoor Activity"
 baseurl:             "/outdoor"
 paginate:            5
 
+gems:
+  - jekyll-paginate
+
 # About/contact
 author:
 #  name:              Mark Otto
