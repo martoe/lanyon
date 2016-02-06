@@ -22,4 +22,5 @@ comments: true
 * Osttirol...
 
 TO DO
-* tags (on post detail page)
+* timeline/calendar
+* posts page: previous/next button
