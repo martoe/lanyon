@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title:  "Titel"
 category: outdoor
-tags: [region1, region2]
+tags: hohe_wand rax pyhrn-priel totes_gebirge oberösterreich niederösterreich klettersteig
 comments: true
 #map: image.jpg
 ---
