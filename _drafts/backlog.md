@@ -8,7 +8,6 @@ comments: true
 ---
 
 * 20.09.2015 Schneeberg
-* 24.07.2015 Wilde Gams
 * 21.07.2014 Grandlspitz
 * 17.07.2015 Fredsteig
 * 29.06.2015 Tirolersteig
@@ -19,7 +18,7 @@ comments: true
 * 18.04.2015 Kleine Klause
 * 11./12.4.2015 Kletterkurs Hohe Wand
 * 26.10.2014 Kleines Gries
-* 21.09.2014 Haidsteig 
+* 21.09.2014 Haidsteig
 * 05.08.2014 Luft unter den Sohlen
 * 11.07.2014 Laserz-Klettersteig
 * 09.07.2014 Galitzenklamm
