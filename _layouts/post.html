@@ -4,9 +4,26 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}
+  <span class="post-date">
+    am {% assign m = page.date | date: "%-m" %}
+    {{ page.date | date: "%-d" }}.
+    {% case m %}
+      {% when '1' %}J&auml;nner
+      {% when '2' %}Februar
+      {% when '3' %}M&auml;rz
+      {% when '4' %}April
+      {% when '5' %}Mai
+      {% when '6' %}Juni
+      {% when '7' %}Juli
+      {% when '8' %}August
+      {% when '9' %}September
+      {% when '10' %}Oktober
+      {% when '11' %}November
+      {% when '12' %}Dezember
+    {% endcase %}
+    {{ page.date | date: "%Y" }}
     {% if page.map %}
-      | <a href="{{ site.baseurl }}/assets/maps/{{ page.map }}" data-lightbox="{{ page.id }}">Map</a>
+      | <a href="{{ site.baseurl }}/assets/maps/{{ page.map }}" data-lightbox="{{ page.id }}">Karte</a>
     {% endif %}
   </span>
   {{ content }}
@@ -17,10 +34,48 @@ layout: default
     Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}
   </span>
   {% if page.previous %}
-    <span class="post-date">Previous: <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a></span>
+    <span class="post-date">
+      Vorher:
+      <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+      im {% assign m = page.previous.date | date: "%-m" %}
+      {% case m %}
+        {% when '1' %}J&auml;nner
+        {% when '2' %}Februar
+        {% when '3' %}M&auml;rz
+        {% when '4' %}April
+        {% when '5' %}Mai
+        {% when '6' %}Juni
+        {% when '7' %}Juli
+        {% when '8' %}August
+        {% when '9' %}September
+        {% when '10' %}Oktober
+        {% when '11' %}November
+        {% when '12' %}Dezember
+      {% endcase %}
+      {{ page.previous.date | date: "%Y" }}
+    </span>
   {% endif %}
   {% if page.next %}
-    <span class="post-date">Next: <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a></span>
+    <span class="post-date">
+      Danach:
+      <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+      im {% assign m = page.next.date | date: "%-m" %}
+      {% case m %}
+        {% when '1' %}J&auml;nner
+        {% when '2' %}Februar
+        {% when '3' %}M&auml;rz
+        {% when '4' %}April
+        {% when '5' %}Mai
+        {% when '6' %}Juni
+        {% when '7' %}Juli
+        {% when '8' %}August
+        {% when '9' %}September
+        {% when '10' %}Oktober
+        {% when '11' %}November
+        {% when '12' %}Dezember
+      {% endcase %}
+      {{ page.next.date | date: "%Y" }}
+    </span>
   {% endif %}
   {% comment %}
   <h2>Related Posts</h2>
