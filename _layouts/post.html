@@ -16,6 +16,12 @@ layout: default
   <span class="post-date">
     Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}
   </span>
+  {% if page.previous %}
+    <span class="post-date">Previous: <a href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a></span>
+  {% endif %}
+  {% if page.next %}
+    <span class="post-date">Next: <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a></span>
+  {% endif %}
   {% comment %}
   <h2>Related Posts</h2>
   <ul class="related-posts">

@@ -52,4 +52,3 @@ comments: true
 
 TO DO
 * timeline/calendar
-* posts page: previous/next button
