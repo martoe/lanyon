@@ -12,13 +12,13 @@ Nachdem ich letztes Jahr mit einfachen Mehrseillängen-Touren begonnen habe, ist
 
 <!--more-->
 
-![]({{ site.baseurl }}/assets/2016/RIMG0665.JPG "Einstiegsmarkierung: 'Eichertsteig 3+'")
-
 Der Eichertsteig verläuft in unmittelbarer Nähe zum [Wagnersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/wagnersteig), den er auch zweimal kreuzt.
+
+![]({{ site.baseurl }}/assets/2016/RIMG0668.JPG "Die zweite Seillänge")
 
 Wir gehen in einer Zweierseilschaft und absolvieren die 10 Seillängen in etwas mehr als 4 Stunden - was hauptsächlich an meiner fehlenden Routine liegt (es ist erst meine dritte Mehrseillänge überhaupt).
 
-![]({{ site.baseurl }}/assets/2016/RIMG0668.JPG "Die zweite Seillänge")
+![]({{ site.baseurl }}/assets/2016/RIMG0673.JPG "Querung unterhalb der Wagnerwand (7. SL)")
 
 Der Steig selbst ist keine Schönheit: er ist sehr schrofig mit viel brüchigem Fels und wird immer wieder durch kurze Gehpassagen unterbrochen.
 Positiv anzumerken ist, dass der Fels sehr rauh und überhaupt nicht abgeschmiert ist (wie es z.B. beim [Tirolersteig](http://www.bergsteigen.com/klettern/niederoesterreich/gutensteiner-alpen/tirolersteig) der Fall ist).
