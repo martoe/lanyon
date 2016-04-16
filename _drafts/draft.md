@@ -21,7 +21,6 @@ Other contents
 ## Backlog
 
 * 20.09.2015 Schneeberg
-* 21.07.2015 Grandlspitz
 * 17.07.2015 Fredsteig
 * 29.06.2015 Tirolersteig
 * 05.06.2015 Traunstein
