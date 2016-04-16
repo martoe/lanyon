@@ -25,7 +25,7 @@ Positiv anzumerken ist, dass der Fels sehr rauh und überhaupt nicht abgeschmier
 
 ![]({{ site.baseurl }}/assets/2016/RIMG0680.JPG "Im Wildenauer-Ausstieg")
 
-Für die letzten beiden Seillängen wählen wir den Originalausstieg (der sogenannte "Wildenauer-Ausstieg") über die Hammerlwand - und das ist auch der eindeutige Höhepunkt des Steigs: mit guten Griffen und Tritten geht es eine senkrechte Wand hinauf, und zum ersten Mal bekomme ich ein richtiges "Klettergefühl".
+Für die letzten beiden Seillängen wählen wir den Originalausstieg (den sogenannten "Wildenauer-Ausstieg") über die Hammerlwand - und das ist auch der eindeutige Höhepunkt des Steigs: mit guten Griffen und Tritten geht es eine senkrechte Wand hinauf, und zum ersten Mal bekomme ich ein richtiges "Klettergefühl".
 
 ![]({{ site.baseurl }}/assets/2016/RIMG0687.JPG "Am Ausstieg: Blick auf Große Kanzel (Kreuz) und Schneeberg")
 
