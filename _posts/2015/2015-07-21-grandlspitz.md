@@ -12,11 +12,11 @@ Wenn ich schon mal [Urlaub in den Bergen](http://urlaubhintermoos.at/) mache, mu
 
 <!--more-->
 
-Zwei Kollegen haben mich auf eine Tour über den [Königsjodler-Klettersteig](http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/koenigsjodler-klettersteig) eingeladen, aber eine 12-Stunden-Wanderung traue ich mir konditionell nicht zu, und dewegen entscheide ich mich für ein kürzeres Alternativprogramm: den [Grandlspitz-Klettersteig](http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/grandlspitz-klettersteig) (C/D), kombiniert mit einem Abstecher auf die Taghaube.
+Zwei Kollegen haben mich auf eine Tour über den [Königsjodler-Klettersteig](http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/koenigsjodler-klettersteig) eingeladen, aber eine 12-Stunden-Wanderung traue ich mir konditionell nicht zu, und deswegen entscheide ich mich für ein kürzeres Alternativprogramm: den [Grandlspitz-Klettersteig](http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/grandlspitz-klettersteig) (C/D), kombiniert mit einem Abstecher auf die Taghaube.
 
 ![]({{ site.baseurl }}/assets/2015/RIMG0182.JPG "Die Taghaube im Morgengrauen")
 
-Um 6 Uhr gehe ich vom Dientener Sattel los, zuerst zur Erichhütte und dann weiter auf die Taghaube. Der Weg nach oben wird zusehends steiler, geröllig und ausgewaschen (mit Kindern nicht zu empfehlen, und im Abstieg sicher eher mühsam). Nach gut eineinhalb Stunden und 800 Höhenmetern stehe ich dann am Gipfel der 2159m hohen Taghaube:
+Um 6 Uhr gehe ich in der Nähe vom Dientener Sattel los, zuerst zur Erichhütte (Weg Nr. 432) und dann weiter die Taghaube hinauf (Weg Nr. 437). Der Weg nach oben wird zusehends steiler, geröllig und ausgewaschen (mit Kindern nicht zu empfehlen, und im Abstieg sicher mühsam). Nach gut eineinhalb Stunden und 800 Höhenmetern stehe ich dann am Gipfel der 2159m hohen Taghaube:
 
 ![]({{ site.baseurl }}/assets/2015/RIMG0195.JPG "Blick von der Taghaube zurück auf die Erichhütte")
 
