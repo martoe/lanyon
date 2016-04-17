@@ -6,6 +6,8 @@ category: outdoor
 tags: klettern niederösterreich hohe_wand
 comments: true
 map: hohewand.jpg
+topo-book: genusskletteratlas
+topo-page: 60
 ---
 
 Nachdem ich letztes Jahr mit einfachen Mehrseillängen-Touren begonnen habe, ist es nun höchste Zeit, die Technik wieder etwas aufzufrischen: da kommt der [Eichertsteig](http://www.bergsteigen.com/klettern/niederoesterreich/gutensteiner-alpen/eichertsteig) (3+ bzw. 4) gerade recht.

@@ -1,0 +1,13 @@
+{% if page.topo-book %}
+  <span class="post-date">
+    Topo:
+    {% case page.topo-book %}
+      {% when 'genusskletteratlas' %}<a href="http://schall-verlag.at/index.php?option=com_content&id=158">Genusskletter-Atlas Niederösterreich</a> (2. Auflage 2012)
+      {% when 'schneebergrax' %}<a href="http://www.styriabooks.at/article/4421">Bergerlebnis Schneeberg + Rax</a> (4. Auflage 2013)
+      {% else %}{{ page.topo-book }}
+    {% endcase %}
+    {% if page.topo-page %}
+      Seite {{ page.topo-page }}
+    {% endif %}
+  </span>
+{% endif %}

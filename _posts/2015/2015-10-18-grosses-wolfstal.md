@@ -6,6 +6,8 @@ category: outdoor
 tags: [rax, niederösterreich]
 comments: true
 map: kaiserbrunn.jpg
+topo-book: schneebergrax
+topo-page: 272
 ---
 
 Heute möchten wir wieder einmal die Rax erklimmen, dieses Mal auf einer selten begangenen Route: durch das Große Wolfstal, wie von [Csaba Szepfalusi](http://www.styriabooks.at/article/4421) beschrieben.

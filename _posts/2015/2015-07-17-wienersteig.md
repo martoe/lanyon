@@ -6,6 +6,8 @@ category: outdoor
 tags: klettern niederösterreich hohe_wand
 comments: true
 map: hohewand.jpg
+topo-book: genusskletteratlas
+topo-page: 53
 ---
 
 An einem traumhaften Freitagvormittag absolviere ich meine zweite Mehrseillängen-Tour, wieder an der Hohen Wand.
@@ -33,5 +35,3 @@ Die folgende letzte Seillänge wird dann zur Qual, denn ich bin nicht nur nervli
 Auf der Kanzelzinne dann nichts wie raus aus den Schuhen, und die letzten 10 Minuten am Kanzelsteig (2+) gehen wir dann in den Bergschuhen und ungesichert.
 
 Um dreiviertel 1, also nach fast 4 Stunden, erreichen wir schließlich die Eicherthütte.
-
-*Topo:* [Genusskletter-Atlas Niederösterreich](http://schall-verlag.at/index.php?option=com_content&id=158) (2. Auflage 2012), Seite 55

@@ -9,6 +9,8 @@ tags: klettern klettersteig
 #salzburg berchtesgadener_alpen
 comments: true
 #map: image.jpg
+#topo-book: genusskletteratlas
+#topo-page: 1
 ---
 First sentence
 
