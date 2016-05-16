@@ -14,9 +14,9 @@ Für unsere Tour auf den Zwillingskogel (Grünau im Almtal) wählen wir einen di
 
 ![]({{ site.baseurl }}/assets/2016/RIMG0008.JPG "Zwillingskogel mit Gipfelkreuz")
 
-An einem schönen, für Anfang Mail allerdings eher kühlem Vormittag machen wir uns auf nach Grünau im Almtal.
+An einem schönen, für Anfang Mai allerdings eher kühlem Vormittag machen wir uns auf nach Grünau im Almtal.
 
-Kurz vor dem Ort biegen wir von der Bundeststraße nach rechts zum Bahnhof Traxenbichl ab und fahren von dort weiter in den Hauergraben (Güterweg).
+Kurz vor dem Ort biegen wir von der Bundesstraße nach rechts zum Bahnhof Traxenbichl ab und fahren von dort weiter in den Hauergraben (Güterweg).
 Vom Parkplatz beim "Gehöft Hauer" geht es auf der asphaltieren Straße noch ein paar hundert Meter weiter, bis links ein breiter Forstweg abzweigt - hier beginnen wir unsere Wanderung (laut gelber Tafel 700 m Seehöhe).
 
 Wir folgen einem unmarkierten, aber gut sichtbaren Steig in direkter Linie den Berg hinauf. Zuerst geht es eine dreiviertel Stunde durch bewaldetes Gebiet, dann werden die Bäume weniger und geben erste Ausblicke frei (Richtung Westen auf den Traunstein, Richtung Osten auf die Kremsmauer).
