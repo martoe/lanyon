@@ -7,6 +7,7 @@ tags: klettern klettersteig
 #niederösterreich hohe_wand rax
 #oberösterreich pyhrn-priel totes_gebirge
 #salzburg berchtesgadener_alpen
+#tirol
 comments: true
 #map: image.jpg
 #topo-book: genusskletteratlas klettersteigatlas schneebergrax
