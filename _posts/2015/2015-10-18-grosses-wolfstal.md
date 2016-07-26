@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title:  "Durch das Große Wolfstal auf die Rax"
 category: outdoor
-tags: [rax, niederösterreich]
+tags: wandern rax niederösterreich
 comments: true
 map: kaiserbrunn.jpg
 topo-book: schneebergrax

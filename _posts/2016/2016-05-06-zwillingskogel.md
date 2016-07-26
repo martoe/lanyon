@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title:  "Vom Hauergraben auf den Zwillingskogel"
 category: outdoor
-tags: oberösterreich
+tags: wandern oberösterreich
 comments: true
 map: zwillingskogel.png
 ---

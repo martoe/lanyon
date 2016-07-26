@@ -3,7 +3,7 @@ layout: post
 excerpt_separator: <!--more-->
 title:  "Kremsmauer"
 category: outdoor
-tags: [oberösterreich]
+tags: wandern oberösterreich
 comments: true
 map: kremsmauer.jpg
 ---

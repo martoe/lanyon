@@ -3,14 +3,14 @@ layout: post
 excerpt_separator: <!--more-->
 title:  "Template"
 category: outdoor
-tags: klettern klettersteig
+tags: klettern klettersteig wandern
 #niederösterreich hohe_wand rax
 #oberösterreich pyhrn-priel totes_gebirge
 #salzburg berchtesgadener_alpen
 #tirol
 comments: true
 #map: image.jpg
-#topo-book: genusskletteratlas klettersteigatlas schneebergrax
+#topo-book: genusskletteratlas klettersteigatlas schneebergrax ötscher
 #topo-page: 1
 ---
 First sentence
@@ -23,6 +23,9 @@ Other contents
 
 ## Backlog
 
+* 21.07.2016 Ötschergräben
+* 20.07.2016 Ötscher
+* 11.07.2016 Zahme Gams
 * 20.09.2015 Schneeberg
 * 29.06.2015 Tirolersteig
 * 05.06.2015 Traunstein
