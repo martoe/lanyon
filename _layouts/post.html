@@ -25,15 +25,14 @@ layout: default
     {% if page.map %}
       | <a href="{{ site.baseurl }}/assets/maps/{{ page.map }}" data-lightbox="{{ page.id }}">Karte</a>
     {% endif %}
+    <br/>
+    Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
   </span>
   {{ content }}
 </div>
 
 <div class="related">
   {% include biblio.html %}
-  <span class="post-date">
-    Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}
-  </span>
   {% if page.previous %}
     <span class="post-date">
       Vorher:
