@@ -7,7 +7,7 @@ tags: wandern niederösterreich
 comments: true
 map: oetschergraeben.jpg
 ---
-Winderbruck - Ötschergräben - Jäger Herz - Rauher Kamm - Ötscher - Ötscherschutzhaus - Lackenhof\\
+Wienerbruck - Ötschergräben - Jäger Herz - Rauher Kamm - Ötscher - Ötscherschutzhaus - Lackenhof\\
 Gehzeit: 8 Stunden
 
 <!--more-->
