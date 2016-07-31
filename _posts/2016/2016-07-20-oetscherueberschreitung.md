@@ -12,7 +12,7 @@ Gehzeit: 8 Stunden
 
 <!--more-->
 
-Seit meiner [letzten Tour auf den Ötscher]({% post_url 2013-08-16-oetscher-rauher-kamm %}) sind drei Jahre vergangen - höchste Zeit, dem Rauhen Kamm wieder einen Besuch abzustatten, dieses Mal aber von den Ötschergräben aus.
+Seit meiner [letzten Tour auf den Ötscher]({{ site.baseurl }}{% post_url 2013-08-16-oetscher-rauher-kamm %}) sind drei Jahre vergangen - höchste Zeit, dem Rauhen Kamm wieder einen Besuch abzustatten, dieses Mal aber von den Ötschergräben aus.
 
 Ich starte um halb 7 bei der Ötscherbasis in Wienerbruck bei leichtem Nebel.\\
 (Die [Ötscherbasis](http://www.noe-landesausstellung.at/de/standort/standort-wienerbruck) wurde letztes Jahr für die Landesausstellung errichtet und fristet heuer leider ein einsames Dasein - anscheinend gibt es keinen funktionierenden Plan zur Nachnutzung)
