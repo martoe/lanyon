@@ -13,13 +13,16 @@ comments: true
 #topo-book: genusskletteratlas klettersteigatlas schneebergrax ötscher
 #topo-page: 1
 ---
-First sentence
+Route in Stichworten\\
+Gehzeit: x Stunden
+
 
 <!--more-->
 
-Other contents
+Details folgen...
 
-![]({{ site.baseurl }}/assets/sample.jpg "Ein Bild")
+![]({{ site.baseurl }}/assets/2016/sample.jpg "Ein Bild")
+[Querverweis]({{ site.baseurl }}{% post_url 2016-01-01-name %})
 
 ## Backlog
 

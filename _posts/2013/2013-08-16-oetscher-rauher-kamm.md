@@ -13,3 +13,5 @@ Raneck - Bärenlacken - Rauher Kamm - Ötscher - Lackenhof - Raneck\\
 Gehzeit: 6 Stunden
 
 <!--more-->
+
+Details folgen...
