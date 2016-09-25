@@ -28,7 +28,6 @@ Details folgen...
 
 * 15.08.2016 Beisteinmauer
 * 14.08.2016 Stoderer Dolomitensteig
-* 21.07.2016 Ötschergräben
 * 20.09.2015 Schneeberg
 * 29.06.2015 Tirolersteig
 * 05.06.2015 Traunstein
@@ -73,3 +72,4 @@ Details folgen...
 ## TO DO
 
 * timeline/calendar
+* Tag-Links im Overview
