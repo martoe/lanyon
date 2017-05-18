@@ -26,6 +26,9 @@ Details folgen...
 
 ## Backlog
 
+* 06./07.05.2017 Basic-Klettersteigkurs Mödling/Hohe Wand/Hochlantsch
+* 12.04.2017 Hohe Wand - Draschgrat
+* 09.04.2017 Teufelsbadstubensteig
 * 15.08.2016 Beisteinmauer
 * 14.08.2016 Stoderer Dolomitensteig
 * 20.09.2015 Schneeberg
