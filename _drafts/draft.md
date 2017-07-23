@@ -26,6 +26,8 @@ Details folgen...
 
 ## Backlog
 
+* 25.05.2017 Bad Goisern - Predigstuhl - Leadership-Klettersteig
+* 19.05.2017 Währingersteig/Ganghofersteig
 * 06./07.05.2017 Basic-Klettersteigkurs Mödling/Hohe Wand/Hochlantsch
 * 12.04.2017 Hohe Wand - Draschgrat
 * 09.04.2017 Teufelsbadstubensteig
