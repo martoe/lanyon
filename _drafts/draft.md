@@ -26,6 +26,14 @@ Details folgen...
 
 ## Backlog
 
+* 19.07.2017 Grandlspitz-Klettersteig
+* 17.07.2017 Weiße Gams Klettersteig
+* 13.07.2017 Südtirol - Via Ferrata delle Trincee
+* 11.07.2017 Osttirol - Galitzenklamm (Familienklettersteig, Endorphin, Dopamin)
+* 10.07.2017 Osttirol - Pirknerklamm
+* 29.06.2017 Hohe Wand - Duettsteig
+* 15.06.2017 Rax - Königschusswandsteig
+* 04.06.2017 Hohe Wand - Wildenauersteig
 * 25.05.2017 Bad Goisern - Predigstuhl - Leadership-Klettersteig
 * 19.05.2017 Währingersteig/Ganghofersteig
 * 06./07.05.2017 Basic-Klettersteigkurs Mödling/Hohe Wand/Hochlantsch
