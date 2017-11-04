@@ -26,6 +26,7 @@ Details folgen...
 
 ## Backlog
 
+* 19.10.2017 Windischgarsten - Gowilalm
 * 14.10.2017 Hohe Wand - Wildenauersteig
 * 28.09.2017 Schneeberg - Herminensteig
 * 15.08.2017 Bad Eisenkappel - Türkenkopf-Klettersteig
