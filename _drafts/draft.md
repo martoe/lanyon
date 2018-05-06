@@ -26,6 +26,9 @@ Details folgen...
 
 ## Backlog
 
+* 21.04.2018 Hohe Wand - Kleine Klause, Große Klause
+* 14.04.2018 Hohe Wand - Duettsteig, Draschgrat
+* 10.03.2018 Hohe Wand - Gebirgsvereinssteig
 * 19.10.2017 Windischgarsten - Gowilalm
 * 14.10.2017 Hohe Wand - Wildenauersteig
 * 28.09.2017 Schneeberg - Herminensteig
