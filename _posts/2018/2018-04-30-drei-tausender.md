@@ -16,16 +16,21 @@ In den letzten Monaten war ich sehr nachlässig mit dem Dokumentieren meiner Ber
 
 Wir starten vom Parkplatz in Dorngraben (Punkt 479) und folgen dem Weg Nr. 14 zunächst auf einer Forststraße (die gleichzeitig eine Mountainbike-Strecke ist). Es ist stark bewölkt, kühl und windig, und die Fichtenpollen treiben wie ein leichter Nebel durch die Luft.
 
-Nach einer halben Stunde zweigt der Weg nach rechts ab und geht in relativ direkter Linie den Berg hinauf. Der Weg geht aussichtslos durch den Wald, nur zwischendurch gibt es kurze freie Stellen, um einen Blick auf die Felsformation des Dürren Ecks zu ergattern.
+Nach einer halben Stunde zweigt wir von der Forststraße nach rechts ab und folgen dem Weg in relativ direkter Linie den Berg hinauf. Es geht aussichtslos durch den Wald, nur zwischendurch gibt es kurze freie Stellen, um einen Blick auf die Felsformation des Dürren Ecks zu ergattern.
  
 ![]({{ site.baseurl }}/assets/2018/20180430-100535.jpg "Blick auf das Dürre Eck")
 
-Nach einem weiteren kurzen Stück auf einer Forststraße schwenkt der Weg nach rechts, macht einen Bogen um die Felswände und nähert sich dem Gipfel von der Südseite. Hier, auf der Windschattenseite, ist es gleich viel wärmer, und als wir nach insgesamt eineindreiviertel Stunden den Gipfel erreichen kommt sogar kurz die Sonne heraus.
+Es folgt wieder ein kurzes Stück auf einer Forststraße, danach schwenkt der Weg nach rechts, macht einen Bogen um die Felswände des Dürren Ecks und nähert sich dem Gipfel von der Südseite. Hier, auf der Windschattenseite, ist es gleich viel wärmer, und als wir nach insgesamt eindreiviertel Stunden den Gipfel erreichen kommt sogar kurz die Sonne heraus.
+
 Vom Dürren Eck geht es über einen einfachen Kamm in 20 Minuten mit geringem Höhenunterschied zum zweiten Tausender, den Gaisberg - etwas höher als das Dürre Eck, aber weniger spektakulär.
 
 ![]({{ site.baseurl }}/assets/2018/20180430-112859.jpg "Am Gaisberg")
 
-Der Weg führt uns weiter den Kamm entlang bis zu einem großen Steinbruch, den wir rechts liegen lassen und über einen steilen Weg und dann eine Forststraße zum Pfaffenboden absteigen (Gehzeit vom Gaisberg gut eine halbe Stunde). Hier bietet sich die bequeme Forststraße zur Grünburger Hütte an, wir wollen jedoch vorher noch den dritten Tausender, den Hochbuchberg, besuchen: dafür folgen wir einem unmarkierten, aber breiten und unübersehbaren Steig durch lichten Wald geradewegs den Berg hinauf. Vorbei an Meeren von Bärlauch und mit Knoblauchduft in der Nase stehen wir nach einer halben schweißtreibenden Stunde am höchsten Punkt. Der kühle Wind treibt uns gleich weiter, hinunter zur Grünburger Hütte, wo wir 20 Minuten später einen sonnigen und windgeschützen Platz auf der Terrasse ergattern.
+Der Weg führt uns weiter den Kamm entlang bis zu einem großen Steinbruch, den wir rechts liegen lassen und über einen steilen Weg und dann eine Forststraße zum Pfaffenboden absteigen (Gehzeit vom Gaisberg gut eine halbe Stunde).
+
+Hier bietet sich die bequeme Forststraße zur Grünburger Hütte an, wir wollen jedoch vorher noch den dritten Tausender, den Hochbuchberg, besuchen: dafür folgen wir einem unmarkierten, aber breiten und unübersehbaren Steig vom Pfaffenboden durch lichten Wald geradewegs den Berg hinauf. Vorbei an Meeren von Bärlauch und mit Knoblauchduft in der Nase stehen wir nach einer halben schweißtreibenden Stunde am höchsten Punkt.
+
+Der kühle Wind treibt uns gleich weiter, hinunter zur Grünburger Hütte, wo wir 20 Minuten später einen sonnigen und windgeschützen Platz auf der Terrasse ergattern.
 
 ![]({{ site.baseurl }}/assets/2018/20180430-125638.jpg "Grünburger Hütte")
 
