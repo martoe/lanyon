@@ -5,7 +5,7 @@ title:  "Template"
 category: outdoor
 tags: klettern klettersteig wandern
 #niederösterreich hohe_wand rax
-#oberösterreich pyhrn-priel totes_gebirge
+#oberösterreich pyhrn-priel totes_gebirge dachstein
 #salzburg berchtesgadener_alpen
 #tirol
 comments: true
