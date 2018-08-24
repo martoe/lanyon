@@ -1,7 +1,7 @@
 ---
 layout: post
 excerpt_separator: <!--more-->
-title:  "Template"
+title:  "Hohe Veitsch und Großer Wildkamm"
 category: outdoor
 tags: wandern steiermark mürzsteger_alpen
 comments: true
