@@ -7,6 +7,7 @@ tags: klettern klettersteig wandern
 #niederösterreich hohe_wand rax schneeberg
 #oberösterreich pyhrn-priel totes_gebirge dachstein
 #salzburg berchtesgadener_alpen
+#steiermark mürzsteger_alpen
 #tirol
 comments: true
 #map: image.jpg
