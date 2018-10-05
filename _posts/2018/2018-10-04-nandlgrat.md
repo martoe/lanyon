@@ -16,6 +16,8 @@ Gehzeit: 5.5 Stunden
 
 Ausgangspunkt der Tour ist Losenheim, genauer gesagt der Parkplatz am Ende der Straße (nach der Sessellift-Talstation). Hier gehe ich kurz vor 9 Uhr weg, dem Wegweiser zur "Breiten Ries" folgend.
 
+![]({{ site.baseurl }}/assets/2018/20181004-083221.jpg "Der Schneeberg, noch in Wolken gehüllt")
+
 Die erste halbe Stunde geht es immer Richtung Süden gemütlich auf einer Forststraße, die dann in einen Wanderweg übergeht. Immer den Wegweisern zum "Nördlichen Grafensteig" folgend führt der Weg an einem Wegkreuz nach rechts und wird langsam steiler. Schließlich erreiche ich nach einer Stunde Gehzeit die Bürklehütte und mit ihr den Grafensteig.
 
 ![]({{ site.baseurl }}/assets/2018/20181004-094436.jpg "Die Brücklehütte am Nördlichen Grafensteig")
@@ -38,4 +40,4 @@ Um 12 Uhr mache ich mich wieder auf, zuerst durch den Schnee hinüber zum Kloste
 
 Der Nördliche Grafensteig (hier auch Fadenweg genannt) bringt mich in einer guten Stunde zur Edelweißhütte, der größere Teil davon ist eine gemütlich bergab führende Forststraße. Von hier ist es dann noch etwas mehr als eine halbe Stunde ins Tal, zurück zum Startpunkt.
 
-Die Tour auf [alpenvereinaktiv.com](https://www.alpenvereinaktiv.com/de/tour/schneeberg-nandlgrat/23220389/) (mit leicht abweichendem Abstieg über den Schauerstein-Rücken).
+[Die Tour auf alpenvereinaktiv.com](https://www.alpenvereinaktiv.com/de/tour/schneeberg-nandlgrat/23220389/) (mit leicht abweichendem Abstieg über den Schauerstein-Rücken).
