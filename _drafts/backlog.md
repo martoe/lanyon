@@ -5,6 +5,7 @@ title:  "Touren-Backlog"
 category: outdoor
 ---
 
+* 25.05.2019 Rax - Haidsteig
 * 18.05.2019 Rax - Teufelsbadstubensteig
 * 10.10.2018 Höllental - Großofen
 * 21.08.2018 Rax - Peter-Jokel-Steig, Kaisersteig
