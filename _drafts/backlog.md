@@ -5,6 +5,8 @@ title:  "Touren-Backlog"
 category: outdoor
 ---
 
+* 26.10.2019 Schneeberg - Gamsgartlgrat
+* 22.09.2019 Rax - Königsschusswandsteig
 * 11.08.2019 Schneeberg - Herminensteig
 ...
 * 25.05.2019 Rax - Haidsteig
