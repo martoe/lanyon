@@ -5,6 +5,7 @@ title:  "Touren-Backlog"
 category: outdoor
 ---
 
+* 16.02.2020 Hohe Wand - Gebirgsvereinssteig, Wildenauersteig
 * 26.10.2019 Schneeberg - Gamsgartlgrat
 * 22.09.2019 Rax - Königsschusswandsteig
 * 11.08.2019 Schneeberg - Herminensteig
