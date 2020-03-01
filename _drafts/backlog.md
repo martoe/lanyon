@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 title:  "Touren-Backlog"
 category: outdoor
 ---
+* 01.03.2020 Hohe Wand - HTL-Steig (ÖTK-Steig)
 * 22.02.2020 Schneeberg - Losenheim, Bürklehütte, Edelweißhütte
 * 16.02.2020 Hohe Wand - Gebirgsvereinssteig, Wildenauersteig
 * 26.10.2019 Schneeberg - Gamsgartlgrat
