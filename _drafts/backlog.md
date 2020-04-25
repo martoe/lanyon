@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 title:  "Touren-Backlog"
 category: outdoor
 ---
+* 25.04.2020 Hohe Wand - Währingersteig, Ganghofersteig
 * 08.03.2020 Hohe Wand - Neuer Mackiesteig
 * 01.03.2020 Hohe Wand - HTL-Steig (ÖTK-Steig)
 * 22.02.2020 Schneeberg - Losenheim, Bürklehütte, Edelweißhütte
