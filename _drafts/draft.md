@@ -11,12 +11,11 @@ tags: klettern klettersteig wandern
 #tirol
 comments: true
 #map: image.jpg
-#topo-book: genusskletteratlas klettersteigatlas schneebergrax ötscher
+#topo-book: genusskletteratlas klettersteigatlas schneebergrax ötscher csaba_wienerhausberge
 #topo-page: 1
 ---
 Route in Stichworten\\
 Gehzeit: x Stunden
-
 
 <!--more-->
 
