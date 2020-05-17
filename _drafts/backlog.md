@@ -4,6 +4,7 @@ excerpt_separator: <!--more-->
 title:  "Touren-Backlog"
 category: outdoor
 ---
+* 17.05.2020 Rax - Königsschusswandsteig
 * 25.04.2020 Hohe Wand - Währingersteig, Ganghofersteig
 * 08.03.2020 Hohe Wand - Neuer Mackiesteig
 * 01.03.2020 Hohe Wand - HTL-Steig (ÖTK-Steig)
@@ -54,7 +55,7 @@ category: outdoor
 * 31.05.2015 Steinwandklamm/Myrafälle
 * 25.05.2015 Gebirgsvereinssteig
 * 17.05.2015 Großes Höllental
-* 18.04.2015 Kleine Klause
+* 18.04.2015 Hohe Wand - Kleine Klause (krumme Ries), Steinstangelweg
 * 11./12.4.2015 Kletterkurs Hohe Wand
 * 26.10.2014 Kleines Gries
 * 21.09.2014 Haidsteig
@@ -63,8 +64,8 @@ category: outdoor
 * 11.07.2014 Laserz-Klettersteig
 * 09.07.2014 Galitzenklamm
 * 07.07.2014 Pirknerklamm
-* 14.6.2014 Klettersteig-Kurs Hohe Wand: Währingersteig, HTL-Steig, Steirerspur
-* 15.6.2014 Klettersteig-Kurs Hohe Wand: Gebirgsvereinsteig, Wildenauer Steig
+* 15.06.2014 Klettersteig-Kurs Hohe Wand: Gebirgsvereinsteig, Wildenauer Steig
+* 14.06.2014 Klettersteig-Kurs Hohe Wand: Währingersteig, HTL-Steig, Steirerspur
 * 08.06.2014 Weichtalklamm
 * 25.05.2014 Königschußwandsteig
 * 10.05.2014 Springlessteig
