@@ -13,7 +13,6 @@ category: outdoor
 * 02.08.2013 - Rax - Haidsteig, Preinerwandsteig
 * 09.08.2013 - Tirolerkogel, Annabergerhaus
 * 11.08.2013 - Ötschergräben (Wienerbruck, Ötscherhias)
-* 16.08.2013 - Rauher Kamm, Ötscher
 * 29.08.2013 - Mödlinger Klettersteig
 * 04.09.2013 - Hohe Wand - Wildenauersteig
 * 27.10.2013 - Dürre Wand, Öhlerschutzhaus, Öhler
