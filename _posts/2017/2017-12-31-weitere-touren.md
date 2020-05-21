@@ -20,6 +20,7 @@ category: outdoor
 * 29.07.2017 - Hohe Wand - Kleine Klause, Große Klause
 * 11.08.2017 - Mariazell - Spielmäuer - Kirchbogensteig
 * 15.08.2017 - Bad Eisenkappel - Türkenkopf-Klettersteig
+* 08.09.2017 - Mödlinger Klettersteig
 * 28.09.2017 - Schneeberg - Herminensteig
 * 14.10.2017 - Hohe Wand - Wildenauersteig
 * 19.10.2017 - Windischgarsten - Gowilalm

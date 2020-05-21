@@ -4,7 +4,7 @@ title:  "Weitere Touren 2013"
 category: outdoor
 ---
 * 28.04.2013 - Steinwandklamm - Rudolf-Deckersteig
-* 09.05.2013 - Oberösterriech - Dr.-Vogelgesang-Klamm, Bosruckhütte
+* 09.05.2013 - Oberösterreich - Dr.-Vogelgesang-Klamm, Bosruckhütte
 * 19.05.2013 - Hohe Wand - Springlessteig, Steirerspur, Wagnersteig
 * 26.05.2013 - Mödlinger Klettersteig
 * 08.06.2013 - Hohe Wand - Gebirgsvereinssteig, Wagnersteig

@@ -10,7 +10,7 @@ category: outdoor
 * 14.06.2014 - Klettersteig-Kurs Hohe Wand: Währingersteig, HTL-Steig, Steirerspur
 * 15.06.2014 - Klettersteig-Kurs Hohe Wand: Gebirgsvereinssteig, Wildenauersteig
 * 07.07.2014 - Osttirol - Pirknerklamm
-* 09.07.2014 - Osttirol - Galitzenklamm
+* 09.07.2014 - Osttirol - Galitzenklamm (Galitzen-Klettersteig, Dopamin)
 * 11.07.2014 - Osttirol - Laserz-Klettersteig
 * 05.08.2014 - Kärnten - Luft unter den Sohlen
 * 20.09.2014 - Hohe Wand - Kleine Klause (krumme Ries), Steinstangelweg
