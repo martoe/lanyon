@@ -9,3 +9,6 @@ category: outdoor
 * 08.03.2020 - Hohe Wand - Neuer Mackiesteig
 * 25.04.2020 - Hohe Wand - Währingersteig, Ganghofersteig
 * 17.05.2020 - Rax - Königschusswandsteig
+* 24.05.2020 - Hohe Wand - Hanselsteig, Leiterlsteig
+* 06.06.2020 - Basic Klettersteigkurs - Mödlinger Klettersteig, Währingersteig, Ganghofersteig
+* 07.06.2020 - Basic Klettersteig - Teufelsbadstubensteig
