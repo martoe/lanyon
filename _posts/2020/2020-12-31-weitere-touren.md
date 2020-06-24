@@ -13,3 +13,4 @@ category: outdoor
 * 06.06.2020 - Basic Klettersteigkurs - Mödlinger Klettersteig, Währingersteig, Ganghofersteig
 * 07.06.2020 - Basic Klettersteigkurs - Teufelsbadstubensteig
 * 11.06.2020 - Bad Fischau - Bergkraxler-Steig
+* 13.06.2020 - Weißbach - Zahme Gams, Weiße Gams, Wilde Gams (Klettersteig-Update)
