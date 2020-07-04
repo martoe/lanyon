@@ -7,7 +7,7 @@ tags: klettersteig niederösterreich hohe_wand
 comments: true
 map: hohewand.jpg
 topo-book: klettersteigatlas
-topo-page: 38, 50, 54, 57, 58, 66
+topo-page: 36, 62, 46, 54, 50
 ---
 [Basic-Klettersteigkurs](http://alpenverein-edelweiss.at/edelweiss/programm/index_detail.php?veranstaltungId=19417&sektionId=104) mit Jochen als zweitem Guide und 11 Teilnehmern:
 

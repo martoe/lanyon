@@ -7,7 +7,7 @@ tags: klettersteig oberösterreich
 comments: true
 map: predigstuhl.png
 topo-book: klettersteigatlas
-topo-page: 254, 256
+topo-page: 258
 ---
 
 Berghof Predigstuhl - Obermoossteig - Leadership Klettersteig (B/C) - Predigstuhl - Mein-Land-Dein-Land Klettersteig (C) - Berghof Predigstuhl\\

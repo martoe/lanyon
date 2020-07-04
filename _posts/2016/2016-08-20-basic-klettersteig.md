@@ -7,7 +7,7 @@ tags: klettersteig niederösterreich hohe_wand
 comments: true
 map: hohewand.jpg
 topo-book: klettersteigatlas
-topo-page: 38, 58, 66
+topo-page: 36, 62, 54
 ---
 [Basic-Klettersteigkurs](http://alpenverein-edelweiss.at/edelweiss/programm/index_detail.php?veranstaltungId=19416&sektionId=104): [Mödlinger Klettersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/wienerwald/moedlinger-klettersteig), [Währingersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/waehringersteig), [Steirerspur](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/steirerspur).
 

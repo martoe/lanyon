@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig salzburg berchtesgadener_alpen
 comments: true
 topo-book: klettersteigatlas
-topo-page: 493
+topo-page: 528
 ---
 Die ["Zahme Gams"](http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/zahme-gams-klettersteig) ist ein kurzer und recht einfacher Familienklettersteig in Talnähe.
 

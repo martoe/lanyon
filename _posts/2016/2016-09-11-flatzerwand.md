@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig niederösterreich
 comments: true
 topo-book: klettersteigatlas
-topo-page: 38, 71, 72
+topo-page: 36, 68, 67
 ---
 [Mödlinger Klettersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/wienerwald/moedlinger-klettersteig); danach Flatzer Wand: Waldbauer - [E60](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/e-60) - Naturfreundehaus - [Jubiläumssteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/jubilaeumssteig) - Waldbauer
 

@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig oberösterreich
 comments: true
 topo-book: klettersteigatlas
-topo-page: 300
+topo-page: 298
 ---
 Heute mache ich mit Sam (10 Jahre) eine schon länger versprochene Klettersteigtour - da wir dieses Wochenende in Oberösterreich verbringen, entscheide ich mich für die [Beisteinmauer](http://www.bergsteigen.com/klettersteig/oberoesterreich/oberoesterreichische-voralpen/trattenbacher-klettersteig-beisteinmauer) in der Nähe von Ternberg an der Enns. 
 

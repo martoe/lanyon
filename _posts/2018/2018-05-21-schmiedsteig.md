@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig oberösterreich dachstein
 comments: true
 topo-book: klettersteigatlas
-topo-page: 244
+topo-page: 249
 ---
 
 Für den heutigen Vormittag haben wir uns den [Schmiedsteig](http://www.bergsteigen.com/klettersteig/oberoesterreich/dachsteingebirge/schmied-klettersteig) und den [Laserer Alpin](http://www.bergsteigen.com/klettersteig/oberoesterreich/dachsteingebirge/laserer-alpin-klettersteig), zwei Sportklettersteige in Gosau, vorgenommen.

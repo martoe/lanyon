@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig niederösterreich
 comments: true
 topo-book: klettersteigatlas
-topo-page: 74
+topo-page: 70
 ---
 Der [Pittentaler Klettersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/bucklige-welt/pittentaler-klettersteig) ist zwar nicht recht lang, aber sehr schön und genau nach meinem Geschmack: der rauhe, großgriffige Fels lädt förmlich dazu ein, die Hände vom Stahlseil zu nehmen und frei zu klettern - was allerdings ein bisschen Überwindung kostet: befindet man sich doch ziemlich ausgesetzt in einer senkrechten Felswand.
 

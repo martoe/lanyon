@@ -6,7 +6,7 @@ category: outdoor
 tags: klettersteig niederösterreich hohe_wand
 comments: true
 topo-book: klettersteigatlas
-topo-page: 60-68
+topo-page: 57, 56, 62, 64
 ---
 Kürzlich wurde der [HTL-Klettersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/htl-steig-klettersteig) (D/E) nach einer (neuerlichen) Sanierung als "[ÖTK Klettersteig](http://www.bergsteigen.com/klettersteig/niederoesterreich/gutensteiner-alpen/oetk-klettersteig)" wiedereröffnet.
 
