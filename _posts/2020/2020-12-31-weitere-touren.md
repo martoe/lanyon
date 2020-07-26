@@ -16,3 +16,12 @@ category: outdoor
 * 13.06.2020 - Weißbach - Zahme Gams, Weiße Gams, Wilde Gams (Klettersteig-Update)
 * 27.06.2020 - Basic Klettersteigkurs - Mödlinger Klettersteig, Bergkraxler-Steig
 * 28.06.2020 - Basic Klettersteigkurs - Gebirgsvereinssteig, Wildenauersteig, Steirerspur
+* 09.07.2020 - Kals - Kasteneck
+* 12.07.2020 - Lienz - Madonnen-Klettersteig (via Dolomitenhütte)
+* 13.07.2020 - Naßfeld - Torre-Clampil-Klettersteig
+* 14.07.2020 - Lienz - Galizenklamm (Klamm-Klettersteig, Familienklettersteig, Endorphin)
+* 15.07.2020 - Lienz - Rudl-Eller-Weg
+* 16.07.2020 - ÖTK-Klettersteig Pirknerklamm, Übungsklettersteige Oberdrauburg
+* 17.07.2020 - Lienz - Zettersfeld, Sattelköpfe
+* 20.07.2020 - Dienten - Filzensattel, Pichlalm, Erichhütte
+* 21.07.2020 - Weißbach - Weiße Gams
