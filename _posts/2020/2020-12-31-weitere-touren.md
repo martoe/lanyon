@@ -25,3 +25,6 @@ category: outdoor
 * 17.07.2020 - Lienz - Zettersfeld, Sattelköpfe
 * 20.07.2020 - Dienten - Filzensattel, Pichlalm, Erichhütte
 * 21.07.2020 - Weißbach - Weiße Gams
+* 14.08.2020 - Hohe Wand - Gebirgsvereinssteig
+* 05.09.2020 - Göller
+* 27.09.2020 - Hohe Wand - Krumme Ries, Straßenbahnerweg
