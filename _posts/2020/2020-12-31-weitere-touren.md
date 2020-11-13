@@ -29,3 +29,4 @@ category: outdoor
 * 05.09.2020 - Göller
 * 27.09.2020 - Hohe Wand - Krumme Ries, Straßenbahnerweg
 * 25.10.2020 - Schneealpe - Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben
+* 08.11.2020 - Hochwechsel: Mariensee - Marienseer Schwaig - Wetterkoglerhaus
