@@ -22,11 +22,12 @@ category: outdoor
 * 14.07.2020 - Lienz - Galizenklamm (Klamm-Klettersteig, Familienklettersteig, Endorphin)
 * 15.07.2020 - Lienz - Rudl-Eller-Weg
 * 16.07.2020 - ÖTK-Klettersteig Pirknerklamm, Übungsklettersteige Oberdrauburg
-* 17.07.2020 - Lienz - Zettersfeld, Sattelköpfe
-* 20.07.2020 - Dienten - Filzensattel, Pichlalm, Erichhütte
-* 21.07.2020 - Weißbach - Weiße Gams
-* 14.08.2020 - Hohe Wand - Gebirgsvereinssteig
+* 17.07.2020 - Lienz: Zettersfeld - Sattelköpfe
+* 20.07.2020 - Dienten: Filzensattel - Pichlalm - Erichhütte
+* 21.07.2020 - Weißbach: Weiße Gams
+* 14.08.2020 - Hohe Wand: Gebirgsvereinssteig
 * 05.09.2020 - Göller
-* 27.09.2020 - Hohe Wand - Krumme Ries, Straßenbahnerweg
-* 25.10.2020 - Schneealpe - Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben
+* 27.09.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Straßenbahnerweg
+* 25.10.2020 - Schneealpe: Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben
 * 08.11.2020 - Hochwechsel: Mariensee - Marienseer Schwaig - Wetterkoglerhaus
+* 15.11.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Frauenluckensteig/Völlerin
