@@ -31,3 +31,4 @@ category: outdoor
 * 25.10.2020 - Schneealpe: Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben
 * 08.11.2020 - Hochwechsel: Mariensee - Marienseer Schwaig - Wetterkoglerhaus
 * 15.11.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Frauenluckensteig/Völlerin
+* 22.11.2020 - Rax: Preiner Gscheid - Gretchensteig - Karl-Ludwig-Haus - Schlangenweg
