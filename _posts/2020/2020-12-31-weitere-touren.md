@@ -26,9 +26,9 @@ category: outdoor
 * 20.07.2020 - Dienten: Filzensattel - Pichlalm - Erichhütte
 * 21.07.2020 - Weißbach: Weiße Gams
 * 14.08.2020 - Hohe Wand: Gebirgsvereinssteig
-* 05.09.2020 - Göller
+* 05.09.2020 - [Göller](https://www.alpenvereinaktiv.com/s/wuPNZ)
 * 27.09.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Straßenbahnerweg
-* 25.10.2020 - Schneealpe: Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben
+* 25.10.2020 - Schneealpe: [Altenberg - Lohmgraben - Almengraben - Schneealpenhaus - Blarergraben](https://www.alpenvereinaktiv.com/s/wuRUA)
 * 08.11.2020 - Hochwechsel: Mariensee - Marienseer Schwaig - Wetterkoglerhaus
 * 15.11.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Frauenluckensteig/Völlerin
-* 22.11.2020 - Rax: Preiner Gscheid - Gretchensteig - Karl-Ludwig-Haus - Schlangenweg
+* 22.11.2020 - Rax: [Preiner Gscheid - Gretchensteig - Karl-Ludwig-Haus - Schlangenweg](https://www.alpenvereinaktiv.com/s/wtWnV)
