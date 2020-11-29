@@ -33,3 +33,4 @@ category: outdoor
 * 15.11.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Frauenluckensteig/Völlerin
 * 22.11.2020 - Rax: [Preiner Gscheid - Gretchensteig - Karl-Ludwig-Haus - Schlangenweg](https://www.alpenvereinaktiv.com/s/wtWnV)
 * 26.11.2020 - Schneeberg: Losenheim - Nandlgrat - Fadensteig
+* 29.11.2020 - Schneeberg: Payerbach/Werning - Waldburgangerhütte
