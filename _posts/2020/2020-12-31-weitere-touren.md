@@ -33,9 +33,9 @@ category: outdoor
 * 15.11.2020 - Hohe Wand: Maiersdorf - Krumme Ries - Frauenluckensteig/Völlerin
 * 22.11.2020 - Rax: [Preiner Gscheid - Gretchensteig - Karl-Ludwig-Haus - Schlangenweg](https://www.alpenvereinaktiv.com/s/wtWnV)
 * 26.11.2020 - Schneeberg: Losenheim - Nandlgrat - Fadensteig
-* 29.11.2020 - Schneeberg: Payerbach/Werning - Waldburgangerhütte
+* 29.11.2020 - Schneeberg: [Payerbach/Werning - Waldburgangerhütte](https://www.alpenvereinaktiv.com/s/wzRhZ)
 * 03.12.2020 - Unterberg (via Myralucke)
-* 08.12.2020 - Mamauwiese - Schober - Öhler
-* 13.12.2020 - Schneeberg: Schneebergdörfl - Mieseltal - Haltestelle Baumgartner - Hengsthütte - Schneebergdörfl
-* 20.12.2020 - Semmering: Almsteig - Sonnwendstein - Hirschenkogel
-* 27.12.2020 - Grieshof (Rohr/Gebirge) - Unterberg
+* 08.12.2020 - [Mamauwiese - Schober - Öhler](https://www.alpenvereinaktiv.com/s/ARiGe)
+* 13.12.2020 - Schneeberg: [Schneebergdörfl - Mieseltal - Haltestelle Baumgartner - Hengsthütte - Schneebergdörfl](https://www.alpenvereinaktiv.com/s/xCs9a)
+* 20.12.2020 - Semmering: [Almsteig - Sonnwendstein - Hirschenkogel](https://www.alpenvereinaktiv.com/s/wzROg)
+* 27.12.2020 - [Grieshof (Rohr/Gebirge) - Unterberg](https://www.alpenvereinaktiv.com/s/ehKGK)
