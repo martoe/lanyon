@@ -35,4 +35,7 @@ category: outdoor
 * 26.11.2020 - Schneeberg: Losenheim - Nandlgrat - Fadensteig
 * 29.11.2020 - Schneeberg: Payerbach/Werning - Waldburgangerhütte
 * 03.12.2020 - Unterberg (via Myralucke)
+* 08.12.2020 - Mamauwiese - Schober - Öhler
 * 13.12.2020 - Schneeberg: Schneebergdörfl - Mieseltal - Haltestelle Baumgartner - Hengsthütte - Schneebergdörfl
+* 20.12.2020 - Semmering: Almsteig - Sonnwendstein - Hirschenkogel
+* 27.12.2020 - Grieshof (Rohr/Gebirge) - Unterberg
