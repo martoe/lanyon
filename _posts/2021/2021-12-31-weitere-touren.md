@@ -8,3 +8,4 @@ category: outdoor
 * 13.01.2021 - Wechsel: [Skitour St.Peter - Mariensee](https://www.alpenvereinaktiv.com/s/yCJuE) 
 * 24.01.2021 - Wechsel: [Schneeschuhwanderung Mönichkirchen - Vorauer Schwaig - Hallerhaus](https://www.alpenvereinaktiv.com/s/y9aeA)
 * 06.02.2021 - [Matrassteig - Kieneck/Enzianhütte - Enziansteig](https://www.alpenvereinaktiv.com/s/xfyfH)
+* 14.02.2021 - [Schlagl - Großer Otter - Kummerbauer Stadl](https://www.alpenvereinaktiv.com/s/ydvgv)
