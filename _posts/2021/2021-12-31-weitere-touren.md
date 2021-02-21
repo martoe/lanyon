@@ -9,3 +9,4 @@ category: outdoor
 * 24.01.2021 - Wechsel: [Schneeschuhwanderung Mönichkirchen - Vorauer Schwaig - Hallerhaus](https://www.alpenvereinaktiv.com/s/y9aeA)
 * 06.02.2021 - [Matrassteig - Kieneck/Enzianhütte - Enziansteig](https://www.alpenvereinaktiv.com/s/xfyfH)
 * 14.02.2021 - [Schlagl - Großer Otter - Kummerbauer Stadl](https://www.alpenvereinaktiv.com/s/ydvgv)
+* 21.02.2021 - [Payerbach - Spackbacherhütte](https://www.alpenvereinaktiv.com/s/kRoM)
