@@ -10,3 +10,5 @@ category: outdoor
 * 06.02.2021 - [Matrassteig - Kieneck/Enzianhütte - Enziansteig](https://www.alpenvereinaktiv.com/s/xfyfH)
 * 14.02.2021 - [Schlagl - Großer Otter - Kummerbauer Stadl](https://www.alpenvereinaktiv.com/s/ydvgv)
 * 21.02.2021 - [Payerbach - Speckbacherhütte](https://www.alpenvereinaktiv.com/s/kRoM)
+* 25.02.2021 - Hohe Wand: Draschgrat
+* 26.02.2021 - Hohe Wand: Inthalersteig, Teufelsgrat
