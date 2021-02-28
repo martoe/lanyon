@@ -12,3 +12,4 @@ category: outdoor
 * 21.02.2021 - [Payerbach - Speckbacherhütte](https://www.alpenvereinaktiv.com/s/kRoM)
 * 25.02.2021 - Hohe Wand: Draschgrat
 * 26.02.2021 - Hohe Wand: Inthalersteig, Teufelsgrat
+* 28.02.2021 - [Niederalpl - Hohe Veitsch](https://www.alpenvereinaktiv.com/s/yyzpX)
