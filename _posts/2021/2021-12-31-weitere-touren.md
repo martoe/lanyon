@@ -14,3 +14,4 @@ category: outdoor
 * 26.02.2021 - Hohe Wand: Inthalersteig, Teufelsgrat
 * 28.02.2021 - [Niederalpl - Hohe Veitsch](https://www.alpenvereinaktiv.com/s/yyzpX)
 * 07.03.2021 - Schneeberg: [Prigglitz - Schwarzenberg - Pottschacher Hütte](https://www.alpenvereinaktiv.com/s/zB3eE)
+* 13.03.2021 - Rax: Preiner Gscheid - Reißtaler Steig - Gretchensteig - Schlangenweg
