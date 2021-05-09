@@ -17,4 +17,6 @@ category: outdoor
 * 13.03.2021 - Rax: Preiner Gscheid - Reißtaler Steig - Gretchensteig - Schlangenweg
 * 21.03.2021 - Rohr im Gebirge: [Jochart](https://www.alpenvereinaktiv.com/s/yVHRa)
 * 05.04.2021 - Mürzsteg: [Scheiterboden - Hinteralmhaus](https://www.alpenvereinaktiv.com/s/xnoKX)
-* 11-04.2021 - Niederalpl - Sohlenalm - Wildkamm
+* 11.04.2021 - Niederalpl - Sohlenalm - Wildkamm
+* 25.04.2021 - Hinternaßwald - [Großer Sonnleitstein](https://www.alpenvereinaktiv.com/s/xK99k)
+* 09.05.2021 - Furth an der Triesting - [Gaisstein](https://www.alpenvereinaktiv.com/s/IOvmfB)
