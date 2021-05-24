@@ -20,3 +20,5 @@ category: outdoor
 * 11.04.2021 - Niederalpl - Sohlenalm - Wildkamm
 * 25.04.2021 - Hinternaßwald - [Großer Sonnleitstein](https://www.alpenvereinaktiv.com/s/xK99k)
 * 09.05.2021 - Furth an der Triesting - [Gaisstein](https://www.alpenvereinaktiv.com/s/IOvmfB)
+* 16.05.2021 - Pernitz - [Hohe Mandling](https://www.alpenvereinaktiv.com/s/IIGWdP)  
+* 24.05.2021 - Altenmarkt an der Triesting - [Hocheck](https://www.alpenvereinaktiv.com/s/IIGVmX)
