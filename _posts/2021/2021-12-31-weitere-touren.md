@@ -26,3 +26,4 @@ category: outdoor
 * 05.06.2021 - Bad Fischau: Bergkraxlersteig
 * 12.06.2021 - Rax: Gaislochsteig - Gustav-Jahn-Steig
 * 14.06.2021 - Hohe Wand: Reinecke Fuchs
+* 17.06.2021 - Rax: [Altenberg - Gamsecksteig](https://www.alpenvereinaktiv.com/s/IZByoi)
