@@ -27,3 +27,9 @@ category: outdoor
 * 12.06.2021 - Rax: Gaislochsteig - Gustav-Jahn-Steig
 * 14.06.2021 - Hohe Wand: Reinecke Fuchs
 * 17.06.2021 - Rax: [Altenberg - Gamsecksteig](https://www.alpenvereinaktiv.com/s/IZByoi)
+* 11.07.2021 - Osttirol: Triestach - Kreithof
+* 12.07.2021 - Osttirol: Kals - Blauspitze
+* 13.07.2021 - Osttirol: Galitzenklamm
+* 15.07.2021 - Osttirol: Naßfeld - Däumling-Klettersteig
+* 16.07.2021 - Osttirol: Plöckenpass - Cellonstollen
+* 25.07.2021 - Frauenberg: [Rennfeld](https://www.alpenvereinaktiv.com/s/I3EAwv)
