@@ -33,3 +33,4 @@ category: outdoor
 * 15.07.2021 - Osttirol: Naßfeld - Däumling-Klettersteig
 * 16.07.2021 - Osttirol: Plöckenpass - Cellonstollen
 * 25.07.2021 - Frauenberg: [Rennfeld](https://www.alpenvereinaktiv.com/s/I3EAwv)
+* 28.07.2021 - Hohe Wand: Direkter Bergfreundesteig
