@@ -34,3 +34,5 @@ category: outdoor
 * 16.07.2021 - Osttirol: Plöckenpass - Cellonstollen
 * 25.07.2021 - Frauenberg: [Rennfeld](https://www.alpenvereinaktiv.com/s/I3EAwv)
 * 28.07.2021 - Hohe Wand: Direkter Bergfreundesteig
+* 15.08.2021 - Hönigsberg - Ganzalm
+* 02.09.2021 - Hohe Wand: Herbertsteig - Gebirgsvereinssteig - Springlessteig
