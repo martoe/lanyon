@@ -36,3 +36,4 @@ category: outdoor
 * 28.07.2021 - Hohe Wand: Direkter Bergfreundesteig
 * 15.08.2021 - Hönigsberg - Ganzalm
 * 02.09.2021 - Hohe Wand: Herbertsteig - Gebirgsvereinssteig - Springlessteig
+* 05./06.09.2021 - [Hochschwab](https://www.alpenvereinaktiv.com/s/I4atKM)
