@@ -41,3 +41,5 @@ category: outdoor
 * 26.09.2021 - Ganzalm - Amundsenhöhe
 * 10.10.2021 - Hönigsberg - Kreuzschober - Hönigsberg-Alm
 * 17.10.2021 - Rax: Preiner Gscheid - Reißtaler Hütte - Martin-Steig - Karl-Ludwig-Haus - Kantner-Steig
+* 29.10.2021 - Hohe Wand: Gebirgsvereinssteig
+* 31.10.2021 - Mürzzuschlag- [Scheibenhütte](https://www.alpenvereinaktiv.com/s/IG9nST)
