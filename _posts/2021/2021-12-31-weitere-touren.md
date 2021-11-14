@@ -43,3 +43,5 @@ category: outdoor
 * 17.10.2021 - Rax: Preiner Gscheid - Reißtaler Hütte - Martin-Steig - Karl-Ludwig-Haus - Kantner-Steig
 * 29.10.2021 - Hohe Wand: Gebirgsvereinssteig
 * 31.10.2021 - Mürzzuschlag- [Scheibenhütte](https://www.alpenvereinaktiv.com/s/IG9nST)
+* 07.11.2021 - Langenwang - Franz-Schöggl-Weg
+* 14.11.2021 - Hoschlantsch - Franz-Scheikl-Klettersteig
