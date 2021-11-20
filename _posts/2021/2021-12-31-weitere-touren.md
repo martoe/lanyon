@@ -38,10 +38,11 @@ category: outdoor
 * 02.09.2021 - Hohe Wand: Herbertsteig - Gebirgsvereinssteig - Springlessteig
 * 05./06.09.2021 - [Hochschwab](https://www.alpenvereinaktiv.com/s/I4atKM)
 * 12.09.2021 - Langenwang - Hönigsberg-Alm
-* 26.09.2021 - Ganzalm - Amundsenhöhe
+* 26.09.2021 - Hönigsberg - Ganzalm - Amundsenhöhe
 * 10.10.2021 - Hönigsberg - Kreuzschober - Hönigsberg-Alm
 * 17.10.2021 - Rax: Preiner Gscheid - Reißtaler Hütte - Martin-Steig - Karl-Ludwig-Haus - Kantner-Steig
 * 29.10.2021 - Hohe Wand: Gebirgsvereinssteig
 * 31.10.2021 - Mürzzuschlag- [Scheibenhütte](https://www.alpenvereinaktiv.com/s/IG9nST)
 * 07.11.2021 - Langenwang - Franz-Schöggl-Weg
 * 14.11.2021 - Hoschlantsch - Franz-Scheikl-Klettersteig
+* 20.11.2021 - Hönigsberg - Ganzalm
