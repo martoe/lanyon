@@ -44,5 +44,10 @@ category: outdoor
 * 29.10.2021 - Hohe Wand: Gebirgsvereinssteig
 * 31.10.2021 - Mürzzuschlag- [Scheibenhütte](https://www.alpenvereinaktiv.com/s/IG9nST)
 * 07.11.2021 - Langenwang - Franz-Schöggl-Weg
-* 14.11.2021 - Hoschlantsch - Franz-Scheikl-Klettersteig
+* 14.11.2021 - Hochlantsch - Franz-Scheikl-Klettersteig
 * 20.11.2021 - Hönigsberg - Ganzalm
+* 21.11.2021 - Hohe Wand - HTL-Steig
+* 08.12.2021 - Mürzzuschlag - Große Scheibe
+* 11.12.2021 - Brunnalm - Große Veitsch
+* 12.12.2021 - Unterberg
+* 19.12.2021 - Frauenberg - Buchecksattel
