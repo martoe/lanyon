@@ -25,3 +25,10 @@ category: outdoor
 * 18.07.2022 - Osttirol - Pirknerklamm
 * 21.07.2022 - Bad Hofgastein - Hirschinger Klettersteig
 * 31.07.2022 - Mürzsteg - Höllgraben, Hinteralm
+* 27.08.2022 - Mürzsteg - Falkenstein Klettersteig
+* 10.10.2022 - Hohe Wand - Kletterbrüderpfad
+* 16.10.2022 - Hönigsberg - Roseggerhaus
+* 23.10.2022 - Kapellen - Große Scheibe
+* 27.10.2022 - Spital am Phyrn - Karleck
+* 01.11.2022 - Pugusch - Bründlweg
+* 11.11.2022 - Hohe Wand - Weningersteig, Freundschaftssteig
