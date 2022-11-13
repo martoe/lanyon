@@ -32,3 +32,4 @@ category: outdoor
 * 27.10.2022 - Spital am Phyrn - Karleck
 * 01.11.2022 - Pugusch - Bründlweg
 * 11.11.2022 - Hohe Wand - Weningersteig, Freundschaftssteig
+* 13.11.2021 - Altenmarkt an der Triesting - [Hocheck](https://www.alpenvereinaktiv.com/s/IIGVmX)
