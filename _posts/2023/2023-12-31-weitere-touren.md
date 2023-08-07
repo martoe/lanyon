@@ -15,5 +15,11 @@ category: outdoor
 * 26.03.2023 - Hohe Wand - Wildenauersteig
 * 22.04.2023 - Klettersteigkurs: Mödlinger Klettersteig, Bergkraxlersteig
 * 23.04.2023 - Klettersteigkurs: Falkenstein-Klettersteig, E60
-* 20.05.2023 - Schneeberg - Gamsgartlgrat
+* 29.05.2023 - Schneeberg - Gamsgartlgrat
 * 03.06.2023 - Mürzsteg - Falkenstein Klettersteig (D/E)
+* 10.07.2023 - Osttirol - Blauspitz (D)
+* 11.07.2023 - Osttirol - Speikbodenhütte, Gritzer Hörndle
+* 13.07.2023 - Osttirol - Jagdhausalm
+* 14.07.2023 - Osttirol - Verborgene Welt (C/D)
+* 17.07.2023 - Osttirol - Pirknerklamm (C)
+* 20.07.2023 - Osttirol - Cellonstollen (B)
