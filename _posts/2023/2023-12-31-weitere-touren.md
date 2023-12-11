@@ -23,3 +23,9 @@ category: outdoor
 * 14.07.2023 - Osttirol - Verborgene Welt (C/D)
 * 17.07.2023 - Osttirol - Pirknerklamm (C)
 * 20.07.2023 - Osttirol - Cellonstollen (B)
+* 31.08.2023 - Südtirol - Ölberg Klettersteig (C)
+* 30.09.2023 - Hinterstoder - Großer Priel
+* 14.10.2023 - Präbichl - Fledermausgrat (IV)
+* 04.11.2023 - Rax - Altenbergersteig
+* 03.12.2023 - Niederalpl - Aschauergraben (Schneeschuhwanderung)
+* 09.12.2023 - Frein - Großer Proles (Skitour)
