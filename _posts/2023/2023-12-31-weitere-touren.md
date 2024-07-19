@@ -28,5 +28,7 @@ category: outdoor
 * 14.10.2023 - Präbichl - Fledermausgrat (IV)
 * 04.11.2023 - Rax - Altenbergersteig
 * 03.12.2023 - Niederalpl - Aschauergraben (Schneeschuhwanderung)
+* 08.12.2023 - Steiermark - Hinteralm (Schneeschuhwanderung)
 * 09.12.2023 - Frein - Großer Proles (Skitour)
+* 30.12.2023 - Steiermark - Mürzzuschlag, Schwarzriegelalm (Schneeschuhwanderung)
 * 31.12.2023 - Niederalpl - Wetterin
